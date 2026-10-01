@@ -1,4 +1,4 @@
-# Agnaldo Arruda 👋
+# Agnaldo Arruda
 
 **Dados | Business Intelligence | Integração de Sistemas**
 
